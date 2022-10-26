@@ -1,0 +1,1 @@
+SELECT SUM(saldo) FROM Usuarios WHERE compania = 'TELCEL';
